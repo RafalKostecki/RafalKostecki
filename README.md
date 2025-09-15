@@ -9,5 +9,5 @@ I am passionate about **software architecture and system design**, always lookin
 ---
 
 ### Social
-[Programming Blog](https://poyters.pl/)
-[LinkedIn](https://www.linkedin.com/in/rkostecki/)
+- [Programming Blog](https://poyters.pl/)
+- [LinkedIn](https://www.linkedin.com/in/rkostecki/)
